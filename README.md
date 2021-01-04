@@ -1,2 +1,2 @@
-# Plinko-v1.0
-Plinko game
+# p5.play-boilerplate
+Boiler plate for p5.play
